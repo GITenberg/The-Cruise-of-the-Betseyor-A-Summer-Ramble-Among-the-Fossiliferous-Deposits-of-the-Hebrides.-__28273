@@ -1,0 +1,36 @@
+_repo: The-Cruise-of-the-Betseyor-A-Summer-Ramble-Among-the-Fossiliferous-Deposits-of-the-Hebrides.-__28273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Hugh
+    birthdate: 1802
+    deathdate: 1856
+    gutenberg_agent_id: '33221'
+    url: http://www.gutenberg.org/2009/agents/33221
+  editor:
+    agent_name: Symonds, W. S. (William Samuel)
+    alias: Symonds, William Samuel
+    birthdate: 1818
+    deathdate: 1887
+    gutenberg_agent_id: '33239'
+    url: http://www.gutenberg.org/2009/agents/33239
+description: ''
+gutenberg_issued: '2009-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology -- Scotland'
+- !lcc 'QE'
+title: 'The Cruise of the Betsey
+
+  or, A Summer Ramble Among the Fossiliferous Deposits of the Hebrides. With Rambles
+  of a Geologist or, Ten Thousand Miles Over the Fossiliferous Deposits of Scotland'
+url: http://www.gutenberg.org/ebooks/28273
