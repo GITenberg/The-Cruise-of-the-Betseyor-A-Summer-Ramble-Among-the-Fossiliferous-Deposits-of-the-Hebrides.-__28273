@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '33239'
     url: http://www.gutenberg.org/2009/agents/33239
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28273#The-Cruise-of-the-Betseyor-A-Summer-Ramble-Among-the-Fossiliferous-Deposits-of-the-Hebrides.-_
 gutenberg_issued: '2009-03-08'
 gutenberg_type: Text
 identifiers:
